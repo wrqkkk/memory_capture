@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated personal memory data
+00_raw_archive/
+01_people/
+02_events/
+03_relationships/
+04_free_notes/
+index.md
+daily_updates.md
+error_log.txt
+
+# Local config / logs
+.env
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
